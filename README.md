@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATULBAIRAGI
 - 👀 I’m interested in ... Development
-- 🌱 I’m currently learning ...web dev
+- 🌱 I’m currently a ...software dev
 - 💞️ I’m looking to collaborate on ... various types of development projects
 - 📫 How to reach me ... LinkedIn
 
