@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ATULBAIRAGI
-- 👀 I’m interested in ... Development
-- 🌱 I’m currently a ...software dev
-- 💞️ I’m looking to collaborate on ... various types of development projects
-- 📫 How to reach me ... LinkedIn
+-  Hi, I’m @ATULBAIRAGI
+-  I’m interested in ...Software Development
+-  I’m currently a ...Software Developer
+-  I’m looking to collaborate on ... various types of development projects
+-  How to reach me ... LinkedIn
 
 <!---
 ATULBAIRAGI/ATULBAIRAGI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
