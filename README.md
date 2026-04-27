@@ -52,7 +52,7 @@ Deepening my backend systems knowledge — distributed systems, system design, a
 - Interesting collabs
 
 📬 **atulbairagi1912@gmail.com**  
-🔗 [LinkedIn]([https://linkedin.com/in/atulbairagi](https://www.linkedin.com/in/atul-bairagi-2731021b8/)) · [GitHub](https://github.com/atulbairagi)
+🔗 [LinkedIn](https://www.linkedin.com/in/atul-bairagi-2731021b8/) · [GitHub](https://github.com/atulbairagi)
 
 ---
 
