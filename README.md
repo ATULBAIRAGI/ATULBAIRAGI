@@ -32,7 +32,7 @@ Full-stack trip planning app powered by Gemini AI. Generates personalized itiner
 `React · Gemini AI · Firebase · Tailwind`  
 [→ View project](#)
 
-### 💸 Paytm Clone
+### 💸 Paykro Payments App
 Full-stack payments app with secure auth, atomic MongoDB transactions for data consistency, Zod input validation, and Docker deployment.  
 `React · Express · MongoDB · Zod · Docker`  
 [→ View project](#)
